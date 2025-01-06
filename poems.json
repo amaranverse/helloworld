@@ -2,13 +2,15 @@
     "poems": [
         {
             "id": 1,
-            "title": "Bloom-Groom",
+            "title": "Bujukku leo.. jujujujuju.. ",
             "author": "amaran",
             "content": "Honey is in the bloom, On her lips, the groom.",
-            "theme": "Love",
+            "theme": "love",
             "publishedDate": "2025-01-04",
             "tags": [
-                ""
+                "love",
+                "romance",
+                "couples"
             ],
             "image": ""
         }
