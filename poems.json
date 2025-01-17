@@ -43,6 +43,24 @@
                 "challenges"
             ],
             "image": ""
+        },
+        {
+            "id": 4,
+            "title": "Simplify to Soar",
+            "author": "amaran",
+            "content": "Have guts in life to simplify things,\\nIt puts you on the path to spread your wings.",
+            "theme": "Inspirational",
+            "publishedDate": "2025-01-17",
+            "tags": [
+                "life",
+                "simplicity",
+                "optimism",
+                "life-lessons",
+                "hope",
+                "inspirational",
+                "motivational"
+            ],
+            "image": ""
         }
     ]
 }
