@@ -61,6 +61,21 @@
                 "motivational"
             ],
             "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Moon\u2019s Fortune",
+            "author": "amaran",
+            "content": "Soon the moon got a boon to see her!",
+            "theme": "Love",
+            "publishedDate": "2025-03-19",
+            "tags": [
+                "romance",
+                "love",
+                "moon",
+                "evening"
+            ],
+            "image": ""
         }
     ]
 }
